@@ -1,0 +1,1 @@
+# Typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them
