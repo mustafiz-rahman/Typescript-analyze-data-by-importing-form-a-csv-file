@@ -1,1 +1,1 @@
-# Typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them
+# Typescript-analyze-data-by-importing-form-a-csv-file
