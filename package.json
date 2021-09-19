@@ -1,0 +1,26 @@
+{
+  "name": "typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:build":"tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start":"concurrently npm:start:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafiz-rahman/Typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafiz-rahman/Typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them/issues"
+  },
+  "homepage": "https://github.com/mustafiz-rahman/Typescript-find-statistics-of-some-data-from-csv-file-and-analyze-them#readme",
+  "dependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
+  }
+}
