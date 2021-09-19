@@ -1,1 +1,1 @@
-# Typescript-analyze-data-by-importing-form-a-csv-file
+# Typescript-analyze-data-importing-form-a-csv-file
