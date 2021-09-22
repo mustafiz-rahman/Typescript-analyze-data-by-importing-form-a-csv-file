@@ -2,7 +2,7 @@ import fs from "fs";
 import { dateStringToDate } from "./Utils";
 import { matchResult } from "./MatchResult";
 
-type MatchData= [Date,string,string,number,number,matchResult,string];
+type MatchData= [Date,string,string,number,number,matchResult,string];//Tuples
 export class CsvFileReader {
   data: MatchData[] = [];
 
