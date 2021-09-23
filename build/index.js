@@ -18,4 +18,7 @@ for (var _i = 0, _a = reader.data; _i < _a.length; _i++) {
         matchWinAway++;
     }
 }
+var n = 103;
+var i = (n * (n + 1)) / 2;
+console.log(i);
 console.log("Match win at Home for Man United is " + matchWinHome + "\nMatch win at Away for Man United is " + matchWinAway + "    ");
