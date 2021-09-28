@@ -1,7 +1,7 @@
 import { matchResult } from "./MatchResult";
 import { dateStringToDate } from "./Utils";
+import {MatchData} from './MatchData'
 
-type MatchData = [Date, string, string, number, number, matchResult, string]; //Tuples
 interface dataReader {
   read(): void;
   data: string[][];
